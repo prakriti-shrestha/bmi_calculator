@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI Calculator
 
 A beautiful, multi-screen Body Mass Index (BMI) calculator built with Flutter. This project focuses on creating a custom, designer-inspired user interface to demonstrate Flutter's flexibility in UI development.
 
